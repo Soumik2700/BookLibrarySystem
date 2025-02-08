@@ -1,0 +1,14 @@
+.submit{
+    position: relative;
+    top: 20px;
+    background-color: rgb(123, 183, 84);
+    padding: 8px;
+    border-radius: 10px;
+    color: azure;
+    font-weight: 600;
+    transition: transform 0.2s;
+}
+
+.submit:hover{
+    transform: scale(1.03);
+}
